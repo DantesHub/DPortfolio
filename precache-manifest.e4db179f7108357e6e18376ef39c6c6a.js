@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed78c54ba3d06e0ca7f4a8a1f73cf2c3",
+    "revision": "279b90280471e2298f7a07955fa1ea67",
     "url": "/DPortfolio/index.html"
   },
   {
-    "revision": "076ab57c6a0168691645",
+    "revision": "697c47a0fe171ba096d2",
     "url": "/DPortfolio/static/css/3.c7b31c95.chunk.css"
   },
   {
-    "revision": "23c31ed3a40565d1682f",
+    "revision": "c743b187e72c5bf8b121",
     "url": "/DPortfolio/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "1e1420535a23893d4708",
+    "revision": "3f9acc8240c964fc26d2",
     "url": "/DPortfolio/static/css/main.fc6650a2.chunk.css"
   },
   {
-    "revision": "1c16c80adfcb1b96f06e",
-    "url": "/DPortfolio/static/js/2.b42f3cad.chunk.js"
+    "revision": "d1c627fe648c87ba915f",
+    "url": "/DPortfolio/static/js/2.1caf8a16.chunk.js"
   },
   {
-    "revision": "076ab57c6a0168691645",
-    "url": "/DPortfolio/static/js/3.3bec8fd1.chunk.js"
+    "revision": "697c47a0fe171ba096d2",
+    "url": "/DPortfolio/static/js/3.7021928b.chunk.js"
   },
   {
-    "revision": "23c31ed3a40565d1682f",
-    "url": "/DPortfolio/static/js/4.9f824e45.chunk.js"
+    "revision": "c743b187e72c5bf8b121",
+    "url": "/DPortfolio/static/js/4.faf2a914.chunk.js"
   },
   {
-    "revision": "1e1420535a23893d4708",
-    "url": "/DPortfolio/static/js/main.ade51473.chunk.js"
+    "revision": "3f9acc8240c964fc26d2",
+    "url": "/DPortfolio/static/js/main.9f52cb81.chunk.js"
   },
   {
-    "revision": "7917a266c5a9486ec52d",
-    "url": "/DPortfolio/static/js/runtime-main.62e10dd6.js"
+    "revision": "95cb3e15694b1d862010",
+    "url": "/DPortfolio/static/js/runtime-main.718f3420.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -54,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ac3eac0b0af82236aac6f39af176d266",
     "url": "/DPortfolio/static/media/breastcancer.ac3eac0b.png"
-  },
-  {
-    "revision": "7af20511aba227f2a4b0bcd1c10275ab",
-    "url": "/DPortfolio/static/media/bstack.7af20511.png"
   },
   {
     "revision": "46d9f22baccdf7718ee608f0b5503c6c",
